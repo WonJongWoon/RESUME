@@ -7,12 +7,13 @@
 저의 개발 모토는 "Make it Work, Make it Right, Make it Fast" 입니다. 고민을 하는 것은 좋은 행동이지만, 많은 고민만 하게 되면 전진할 수 없습니다. 빠르게 시도하여 동작하게 만들고, 그것이 올바르게 동작하도록 만들고, 빠르게 동작하게 만듭니다. 
 
 저는 트러블 슈팅에 강하며, 동료에게 Geek 하다는 이야기를 많이 듣습니다. 문제가 발생하였을 때, 끊임없이 파고 들며, 원인을 찾아 정답이 아니더라도 해답을 제시하고자합니다.
+애플리케이션 레벨의 개발뿐만 아니라, 애플리케이션이 동작하는 클라우드와 같은 인프라에도 관심이 많습니다.
 
 # 기술
 
 ## 언어
 
-- Java, Kotlin
+- Java, Kotlin, Gradle
 - Golang
 - TypeScript
 
@@ -20,14 +21,15 @@
 
 - Linux
 - Docker
+- Vector
 - AWS, K8S
 
 ## 기타
 
+- Spring Boot, JPA(Hibernate), Jenkins
 - MySQL
 - Git
 - React
-- Gradle
 - 학습한 내용을 기록합니다.
   - <https://jongwoon.tistory.com/>
   - <https://woony.hashnode.dev/>
